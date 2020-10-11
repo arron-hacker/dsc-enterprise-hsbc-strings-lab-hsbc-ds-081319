@@ -1,4 +1,5 @@
 
+HERE YOU CAN FIND A VERY GOOD EXPLANATION ABOUT WHAT YOU ARE SEEING
 # Introduction to Variables: Strings - Lab
 
 ## Introduction
